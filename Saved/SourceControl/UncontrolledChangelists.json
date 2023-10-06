@@ -11,9 +11,10 @@
 				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
 				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
 				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Health_Pickup_BP.uasset",
-				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/Pursuer.uasset",
 				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/PursuerController.uasset",
-				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/PursuerCharacter.uasset"
+				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/PursuerCharacter.uasset",
+				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/WB_GameOver.uasset",
+				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/Pursuer.uasset"
 			]
 		}
 	]
