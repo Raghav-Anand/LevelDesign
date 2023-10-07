@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/WB_HealthBar.uasset",
 				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
 				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
 				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
@@ -14,6 +13,15 @@
 				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/PursuerController.uasset",
 				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/PursuerCharacter.uasset",
 				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/WB_GameOver.uasset",
+				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled.umap",
+				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/MortarController.uasset",
+				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/MortarCharacter.uasset",
+				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/WB_Main.uasset",
+				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/MortarProjectile.uasset",
+				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/WB_HealthBar.uasset",
+				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/EAIState.uasset",
+				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/WB_Score.uasset",
 				"C:/Users/rsanand2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/Pursuer.uasset"
 			]
 		}
